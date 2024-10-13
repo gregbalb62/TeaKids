@@ -1,0 +1,10 @@
+^C:\USERS\ALIFI\ONEDRIVE - FATEC CENTRO PAULA SOUZA\FATEC 4 º SEMESTRE\TEAKIDS\BUILD\WINDOWS\CMAKEFILES\DA3EE20A655C1AF69F40D8279F609054\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SC:/Users/alifi/OneDrive - Fatec Centro Paula Souza/FATEC 4 º SEMESTRE/TeaKids/windows" "-BC:/Users/alifi/OneDrive - Fatec Centro Paula Souza/FATEC 4 º SEMESTRE/TeaKids/build/windows" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/alifi/OneDrive - Fatec Centro Paula Souza/FATEC 4 º SEMESTRE/TeaKids/build/windows/kids.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

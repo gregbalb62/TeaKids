@@ -1,0 +1,63 @@
+{
+   "checksum": "009b30c7d48c1c28e3b091fc937cd9d1",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13298069903549040",
+            "guid": "f161f14c-e53e-4ddc-83dc-49ded138699a",
+            "id": "7",
+            "name": "Amazon",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://s3.amazonaws.com/amundsen/redirect/19q2/amazon.html?utm_source=win32&utm_medium=favorite"
+         }, {
+            "date_added": "13298069903548834",
+            "guid": "4ee6d780-1749-418a-8c96-14700fe57786",
+            "id": "6",
+            "name": "Booking.com",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://s3.amazonaws.com/amundsen/redirect/19q2/booking.html?utm_source=win32&utm_medium=favorite"
+         }, {
+            "date_added": "13298069903544661",
+            "guid": "f7c412c7-52d5-4d88-b4d0-21b7e7b33194",
+            "id": "5",
+            "name": "Facebook",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://s3.amazonaws.com/amundsen/redirect/20q2/facebook.html?utm_source=win32&utm_medium=favorite"
+         } ],
+         "date_added": "13298069902483929",
+         "date_modified": "13298069903549040",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Barra de favoritos",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13298069902483939",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Outros favoritos",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13298069902483942",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Favoritos do celular",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\alifi\OneDrive - Fatec Centro Paula Souza\FATEC 4 º SEMESTRE\TeaKids\build\windows\CMakeFiles\2e277d6ac2756608b741ed885081b6a9\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{61A2A44F-28D6-39BA-8E41-0D3EBCFBA116}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

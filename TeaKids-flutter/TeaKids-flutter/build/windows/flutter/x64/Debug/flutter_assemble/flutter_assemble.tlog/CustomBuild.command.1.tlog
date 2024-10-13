@@ -1,0 +1,28 @@
+^C:\USERS\ALIFI\ONEDRIVE - FATEC CENTRO PAULA SOUZA\FATEC 4 º SEMESTRE\TEAKIDS\BUILD\WINDOWS\CMAKEFILES\88A20895AED7D7445654A0D3F805C336\FLUTTER_WINDOWS.DLL.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E env FLUTTER_ROOT=C:\src\flutter "PROJECT_DIR=C:\Users\alifi\OneDrive - Fatec Centro Paula Souza\FATEC 4 º SEMESTRE\TeaKids" FLUTTER_ROOT=C:\src\flutter "FLUTTER_EPHEMERAL_DIR=C:\Users\alifi\OneDrive - Fatec Centro Paula Souza\FATEC 4 º SEMESTRE\TeaKids\windows\flutter\ephemeral" "PROJECT_DIR=C:\Users\alifi\OneDrive - Fatec Centro Paula Souza\FATEC 4 º SEMESTRE\TeaKids" "FLUTTER_TARGET=C:\Users\alifi\OneDrive - Fatec Centro Paula Souza\FATEC 4 º SEMESTRE\TeaKids\lib\main.dart" DART_DEFINES=RkxVVFRFUl9XRUJfQVVUT19ERVRFQ1Q9dHJ1ZQ== DART_OBFUSCATION=false TRACK_WIDGET_CREATION=true TREE_SHAKE_ICONS=false "PACKAGE_CONFIG=C:\Users\alifi\OneDrive - Fatec Centro Paula Souza\FATEC 4 º SEMESTRE\TeaKids\.dart_tool\package_config.json" C:/src/flutter/packages/flutter_tools/bin/tool_backend.bat windows-x64 Debug
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\ALIFI\ONEDRIVE - FATEC CENTRO PAULA SOUZA\FATEC 4 º SEMESTRE\TEAKIDS\BUILD\WINDOWS\CMAKEFILES\2E277D6AC2756608B741ED885081B6A9\FLUTTER_ASSEMBLE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\ALIFI\ONEDRIVE - FATEC CENTRO PAULA SOUZA\FATEC 4 º SEMESTRE\TEAKIDS\WINDOWS\FLUTTER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SC:/Users/alifi/OneDrive - Fatec Centro Paula Souza/FATEC 4 º SEMESTRE/TeaKids/windows" "-BC:/Users/alifi/OneDrive - Fatec Centro Paula Souza/FATEC 4 º SEMESTRE/TeaKids/build/windows" --check-stamp-file "C:/Users/alifi/OneDrive - Fatec Centro Paula Souza/FATEC 4 º SEMESTRE/TeaKids/build/windows/flutter/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

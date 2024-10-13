@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "910078203768",
+    "project_id": "teakids-9254e",
+    "storage_bucket": "teakids-9254e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910078203768:android:2e53de4f89eb881d4cda8d",
+        "android_client_info": {
+          "package_name": "com.example.kids"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "910078203768-hpip4kqe4dbccis8mrj9v4refs23rd86.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0AbXjz8lFHZCji8aWPFSYoFGmNrvYXCo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "910078203768-hpip4kqe4dbccis8mrj9v4refs23rd86.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "910078203768-dttho9js98emmj6el27t9q10jkfsm2hm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.kids"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

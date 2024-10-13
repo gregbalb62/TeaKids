@@ -1,0 +1,16 @@
+C:/Users/alifi/OneDrive - Fatec Centro Paula Souza/FATEC 4 º SEMESTRE/TeaKids/build/windows/runner/Debug/data/icudtl.dat
+C:/Users/alifi/OneDrive - Fatec Centro Paula Souza/FATEC 4 º SEMESTRE/TeaKids/build/windows/runner/Debug/flutter_windows.dll
+C:/Users/alifi/OneDrive - Fatec Centro Paula Souza/FATEC 4 º SEMESTRE/TeaKids/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
+C:/Users/alifi/OneDrive - Fatec Centro Paula Souza/FATEC 4 º SEMESTRE/TeaKids/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
+C:/Users/alifi/OneDrive - Fatec Centro Paula Souza/FATEC 4 º SEMESTRE/TeaKids/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+C:/Users/alifi/OneDrive - Fatec Centro Paula Souza/FATEC 4 º SEMESTRE/TeaKids/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
+C:/Users/alifi/OneDrive - Fatec Centro Paula Souza/FATEC 4 º SEMESTRE/TeaKids/build/windows/runner/Debug/data/flutter_assets/lib/imagens/6_teste.png
+C:/Users/alifi/OneDrive - Fatec Centro Paula Souza/FATEC 4 º SEMESTRE/TeaKids/build/windows/runner/Debug/data/flutter_assets/lib/imagens/7_teste.png
+C:/Users/alifi/OneDrive - Fatec Centro Paula Souza/FATEC 4 º SEMESTRE/TeaKids/build/windows/runner/Debug/data/flutter_assets/lib/imagens/8_teste.png
+C:/Users/alifi/OneDrive - Fatec Centro Paula Souza/FATEC 4 º SEMESTRE/TeaKids/build/windows/runner/Debug/data/flutter_assets/lib/imagens/9_teste.png
+C:/Users/alifi/OneDrive - Fatec Centro Paula Souza/FATEC 4 º SEMESTRE/TeaKids/build/windows/runner/Debug/data/flutter_assets/lib/imagens/cabeca.png
+C:/Users/alifi/OneDrive - Fatec Centro Paula Souza/FATEC 4 º SEMESTRE/TeaKids/build/windows/runner/Debug/data/flutter_assets/lib/imagens/jogos_imagem/quebra_cabeca.png
+C:/Users/alifi/OneDrive - Fatec Centro Paula Souza/FATEC 4 º SEMESTRE/TeaKids/build/windows/runner/Debug/data/flutter_assets/lib/imagens/reset.png
+C:/Users/alifi/OneDrive - Fatec Centro Paula Souza/FATEC 4 º SEMESTRE/TeaKids/build/windows/runner/Debug/data/flutter_assets/NOTICES
+C:/Users/alifi/OneDrive - Fatec Centro Paula Souza/FATEC 4 º SEMESTRE/TeaKids/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
+C:/Users/alifi/OneDrive - Fatec Centro Paula Souza/FATEC 4 º SEMESTRE/TeaKids/build/windows/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
